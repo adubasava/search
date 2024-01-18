@@ -1,0 +1,82 @@
+.menu {
+    float: right;
+    width: auto;
+    font-family: arial;    
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px; 
+}
+
+.title {
+    color: #d93025;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.rounded {    
+    min-height: 44px;
+    background: #fff;    
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    width: 500px;
+    max-width: 800px;
+}
+
+.input {
+    display: flex;
+    padding: 5px 8px 0 14px;
+}
+
+.enter-text {    
+    background-color: transparent;
+    border: none;    
+    outline: none;
+    font-size: 20px;
+}
+
+.btn-group {
+    height: 80px;
+    padding-top: 20px;
+}
+
+.btninp {     
+    font-family: arial;
+    font-size: 14px;
+}
+
+td {    
+    min-width: 200px;
+}
+
+.textinput {
+    min-width: 300px;
+    text-align: left;
+    border: 1px solid #d9d9d9;
+    font-size: 20px;
+    height: 25px;
+    padding: 1px 8px;
+}
+
+h3 {
+    font-size: 18px;    
+    font-family: arial;
+    padding-left: 20px;
+}
+
+.first-row {
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    font-family: arial;
+    font-size: 16px;
+}
+
+#asbtn {
+    background-color: #4d90fe;
+    color: white;
+    border: 1px solid #3079ed;
+    font-family: arial;
+    font-size: 14px;
+    height: 30px; 
+    min-width: 120px; 
+}
